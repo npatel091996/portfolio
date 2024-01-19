@@ -4,6 +4,7 @@ npatel091996.github.io/portfolio
 
 ### Education
 Health Informatics, M.S
+
 Food Science, B.S
 
 ### Work Experience
