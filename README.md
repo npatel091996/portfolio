@@ -11,8 +11,11 @@ Food Science, B.S
 Data Processor @ E4E Relief, LLC	
 
 ●	Processed and managed 750+ grant applications monthly with 100% QC audit compliance, supporting awards totaling $150,000+, through Microsoft 365 Dynamics CRM workflow management and standardized application review procedures.
+
 ●	Verified grant applications ensuring 90% processed within SLA, reducing aged or out-of-SLA cases to 0 in some months, through structured quality-control review processes and consistent application monitoring.
+
 ●	Updated application data and generated monthly individual reports, maintaining consistent reporting cadence and accurate status tracking, through CRM-based workflow management and structured documentation procedures.
+
 ●	Maintained 25 applications processed daily with 100% error-free QC audits, preventing funding delays by enabling decisions within 2 touches, through disciplined processing workflows and adherence to established review standards.
 
 Business Analyst (Contract)	@ The Cigna Group-Evernorth Health Services	
